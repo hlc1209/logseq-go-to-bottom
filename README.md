@@ -4,8 +4,9 @@
 
 # Logseq 返回底部插件
 
-[English](#english) | [中文](#中文)
+![](./example.gif)
 
+[English](#english) | [中文](#中文)
 
 ---
 
