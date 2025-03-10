@@ -28,7 +28,7 @@ Add one-click go to bottom functionality for Logseq, specially optimized for lon
 3. Automatic continuous scrolling for dynamic content
 
 ### 📄 License
-MIT © 2024 Your Name
+MIT © 2025 hlc1209
 
 ---
 
@@ -58,4 +58,4 @@ MIT © 2024 Your Name
 3. 遇到动态加载内容时会自动持续滚动
 
 ### 📄 许可证
-MIT © 2024 Your Name
+MIT © 2025 hlc1209
